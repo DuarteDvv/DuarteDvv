@@ -1,5 +1,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteDvv&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github.com/DuarteDvv/DuarteDvv/anime-loli.gif)
+
 
 
 # 💫 About Me: 
@@ -11,6 +11,8 @@
 # Social :)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-antonio-duarte-sousa) 
 <br><br>
+
+![](https://github.com/DuarteDvv/DuarteDvv/anime-loli.gif)
 
 
 
