@@ -1,5 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuarteDvv&show_icons=true&theme=nightowl&hide=prs,issues,contribs)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteDvv&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DuarteDvv)](https://github.com/DuarteDvv/github-readme-stats)
 
 
 
