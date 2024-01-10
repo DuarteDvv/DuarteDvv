@@ -25,7 +25,7 @@
 ```java
 package World;
 
-public abstract class Me extends Animals implements Student, YourBusiness, Comparable<Animals>{
+public abstract class Me extends Animals implements Student, YourBusiness, Comparable<Me>{
     private String name = "Luis";
     private int age = 19;
     private String studyField = "Computing";
