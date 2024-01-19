@@ -6,6 +6,7 @@ I love physics, mathematics, algorithms and data structures.
 - [My Github Stats](#github-stats)
 - [My technologies](#techs)
 - [My contacts](#find-me-at)
+- [My Playground](#playground)
 
 ```java
 package HelloWorld;
@@ -69,6 +70,10 @@ public abstract class Me implements Student {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-antonio-duarte-sousa) 
 ![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
 ![](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
+
+
+### Playground
+
 
 ![](https://github.com/DuarteDvv/DuarteDvv/blob/main/anime-loli.gif)
 
