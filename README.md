@@ -7,6 +7,23 @@ I love physics, mathematics, algorithms and data structures.
 - [My technologies](#about-my-techs)
 - [My contacts](#find-me-at)
 
+```bash
+Hello
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+
 ### Github stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DuarteDvv&show_icons=true&theme=nightowl)](https://github.com/DuarteDvv/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteDvv&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
