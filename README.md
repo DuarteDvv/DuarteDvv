@@ -76,7 +76,7 @@ public abstract class Me implements Student {
 ### Playground
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuarteDvv&repo=.AlgorithmsAndDataStructure&theme=nightowl)](https://github.com/DuarteDvv/.AlgorithmsAndDataStructure)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuarteDvv&repo=.AlgorithmsAndDataStructure&theme=ambient_gradient)](https://github.com/DuarteDvv/.AlgorithmsAndDataStructure)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuarteDvv&repo=.CodeForce&theme=nightowl)](https://github.com/DuarteDvv/.CodeForce)
 
