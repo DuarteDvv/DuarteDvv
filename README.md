@@ -1,6 +1,6 @@
 Hello, be well and I hope you like it! 😃👍 <br>
 
-My name is Luis, I'm a full stack focused on back-end, self-taught in my studies and I'm also a university student at UFMG.
+My name is Luis, I'm a full-stack focused on back-end, self-taught in my studies and I'm also a university student at UFMG.
 I love physics, mathematics, algorithms and data structures.
 
 - [My Github Stats](#github-stats)
@@ -74,9 +74,11 @@ public abstract class Me implements Student {
 
 ### Playground
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuarteDvv&repo=.CodeForce)](https://github.com/DuarteDvv/.CodeForce)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuarteDvv&repo=.AlgorithmsAndDataStructure)](https://github.com/DuarteDvv/.AlgorithmsAndDataStructure)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuarteDvv&repo=.CodeForce)](https://github.com/DuarteDvv/.CodeForce)
+
 
 ![](https://github.com/DuarteDvv/DuarteDvv/blob/main/anime-loli.gif)
 
