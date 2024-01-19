@@ -12,6 +12,14 @@ package HelloWorld
 
 public class Me implements Student{
 
+    private int age = 19;
+    private const boolean learning = true;
+
+    @Override
+    public void currentlyStudying(Tech t){ 
+
+    }
+
 
 }
 ```
@@ -56,6 +64,4 @@ public class Me implements Student{
 
 
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
