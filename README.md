@@ -8,28 +8,30 @@ I love physics, mathematics, algorithms and data structures.
 - [My contacts](#find-me-at)
 
 ```java
-package HelloWorld
+package HelloWorld;
 
-public class Me implements Student{
+public abstract class Me implements Student {
     String name = "Luis";
     private int age = 19;
-    private const boolean learning = true;
+    private static final boolean learning = true;
 
     @Override
-    public void currentlyStudying(){ 
-        Tech Techs java, dataBase, english, typeScript;
-
+    public void currentlyStudying() {
+        Tech java = new Tech();
+        Tech dataBases = new Tech();
+        Tech english = new Tech();
+        Tech typeScript = new Tech();
     }
 
-    @Override 
-    public String toString(){
+    @Override
+    public String toString() {
         return name + " " + age;
-       
     }
 
-    private static class Tech{};
-
+    private static class Tech {
+    }
 }
+
 ```
 
 ### Github Stats
