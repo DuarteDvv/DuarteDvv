@@ -4,15 +4,15 @@ My name is Luis, I'm a full stack focused on back-end, self-taught in my studies
 I love physics, mathematics, algorithms and data structures.
 
 - [My Github Stats](#github-stats)
-- [My technologies](#Tech)
-- [My contacts](#Find-me-at))
+- [My technologies](#about-my-techs)
+- [My contacts](#find-me-at)
 
-
+### Github stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DuarteDvv&show_icons=true&theme=nightowl)](https://github.com/DuarteDvv/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteDvv&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 
 
-# 🔭 About my tecs: 
+### About my techs
 ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
@@ -32,7 +32,7 @@ I love physics, mathematics, algorithms and data structures.
 
 
 
-# Find me at 
+### Find me at 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-antonio-duarte-sousa) 
 ![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
 ![](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
