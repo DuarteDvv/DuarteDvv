@@ -78,7 +78,7 @@ public abstract class Me implements Student {
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuarteDvv&repo=.AlgorithmsAndDataStructure&theme=ambient_gradient)](https://github.com/DuarteDvv/.AlgorithmsAndDataStructure)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuarteDvv&repo=.CodeForce&theme=nightowl)](https://github.com/DuarteDvv/.CodeForce)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuarteDvv&repo=.CodeForce&theme=ambient_gradient)](https://github.com/DuarteDvv/.CodeForce)
 
 
 ![](https://github.com/DuarteDvv/DuarteDvv/blob/main/anime-loli.gif)
