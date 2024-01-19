@@ -11,15 +11,23 @@ I love physics, mathematics, algorithms and data structures.
 package HelloWorld
 
 public class Me implements Student{
-
+    String name = "Luis";
     private int age = 19;
     private const boolean learning = true;
 
     @Override
-    public void currentlyStudying(Tech t){ 
+    public void currentlyStudying(){ 
+        Tech Techs java, dataBase, english, typeScript;
 
     }
 
+    @Override 
+    public String toString(){
+        return name + " " + age;
+       
+    }
+
+    private static class Tech{};
 
 }
 ```
