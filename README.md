@@ -1,6 +1,6 @@
 Hello, be well and I hope you like it! 😃👍 <br>
 
-My name is Luis, I'm a full-stack focused on back-end, self-taught in my studies and I'm also a university student at UFMG.
+My name is Luis, I'm a back-end, self-taught in my studies and I'm also a university student at UFMG.
 I love physics, mathematics, algorithms and data structures.
 
 - [My Github Stats](#github-stats)
