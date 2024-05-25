@@ -39,7 +39,7 @@ public abstract class Me implements Student {
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DuarteDvv&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF&title_color=FFFFFF)](https://github.com/DuarteDvv/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteDvv&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=20&text_color=FFFFFF&title_color=FFFFFF)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteDvv&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=19&text_color=FFFFFF&title_color=FFFFFF)<br>
 
 
 ### Techs
